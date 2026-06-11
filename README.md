@@ -13,8 +13,7 @@ Questions Asked
 - Which monthly charge group carries the highest churn risk?
 - What combination of factors creates the highest-risk customer profile?
 
-Dashboard Image
-- < a href="https://github.com/NaveenranaBA/Power-BI-Telecon-churn-Rate-Dashboard/blob/main/Power%20BI%20Dashboard%20(%20Telecom%20Churn).png"> View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/NaveenranaBA/Power-BI-Telecon-churn-Rate-Dashboard/blob/main/Power%20BI%20Dashboard%20(%20Telecom%20Churn).png">View Dashboard</a>
 Key Insights
 - < a href="https://github.com/NaveenranaBA/Power-BI-Telecon-churn-Rate-Dashboard/blob/main/Telecom%20Churn%20Dashboard%20%E2%80%93%20Key%20Insights.pdf"> View Key Insight</a>
 
