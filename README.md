@@ -17,6 +17,8 @@ Dashboard Image <a href="https://github.com/NaveenranaBA/Power-BI-Telecon-churn-
 
 Key Insights <a href="https://github.com/NaveenranaBA/Power-BI-Telecon-churn-Rate-Dashboard/blob/main/Telecom%20Churn%20Dashboard%20%E2%80%93%20Key%20Insights.pdf">View Key Insight</a>
 
+Dataset <a href="https://github.com/NaveenranaBA/Power-BI-Telecon-churn-Rate-Dashboard/blob/main/Telecom%20customer%20Churn%20Analysis%20Dashboard.pbix">View Dataset</a>
+
 Key Findings
 - 26.5% overall churn rate across 7,043 customers, with 1,869 customers lost
 - Month-to-Month contract holders churn at ~43% vs just 3% for two-year contracts — the single strongest churn predictor
